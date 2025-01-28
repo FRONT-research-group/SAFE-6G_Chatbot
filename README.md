@@ -8,7 +8,7 @@ More details can be found in this [link](https://telefonicacorp.sharepoint.com/:
 
 
 
-**Intent Recognition Model:
+Intent Recognition Model:
 1. Clone the Repository
 2. Create a Virtual Environment
   
@@ -19,13 +19,14 @@ More details can be found in this [link](https://telefonicacorp.sharepoint.com/:
 4. Install Dependencies
   pip install -r requirements.txt
 
-**Usage Instructions
-**1. Run the Model
+Usage Instructions
+1. Run the Model
 To use the intent recognition model, you can run the Small_bert_intent.py file 
   python Small_bert_intent.py
 
 
-**Running Inference
-To predict intents using the pre-trained model, run the predict_intent.py script. The script will ask for user input and return the predicted intent and class probabilities.
+Running Inference
+To predict intents using the pre-trained model, run the predict_intent.py script. 
+The script will ask for user input and return the predicted intent and class probabilities.
   python predict_intent.py
 
