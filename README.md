@@ -14,13 +14,12 @@ Getting Started
 Follow the instructions below to set up and run the project.
 
 1. Clone the Repository
-  First, clone the repository to your local machine:
-
+  
 2. Create a Virtual Environment
-  Set up a Python virtual environment to isolate dependencies:
+  Set up a Python virtual environment to isolate dependencies.
 
 3. Install Dependencies
-  Install the required Python libraries listed in requirements.txt:
+  Install the required Python libraries listed in requirements.txt.
 
 
 Usage Instructions
